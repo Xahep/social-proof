@@ -15,6 +15,21 @@ export default {
       },
       fontFamily: {
         spartan: ['League Spartan', 'sans-serif'],
+      },
+      fontSize: {
+        'sm': '0.9375rem',
+      },
+      width: {
+        '88': '21rem',
+        '72': '17.3rem',
+        '96': '26rem',
+        '426': '426px'
+      },
+      maxWidth: {
+        '6xl': '67rem'
+      },
+      height: {
+        '56': '14.5rem'
       }
     },
   },
